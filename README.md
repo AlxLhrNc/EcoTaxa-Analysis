@@ -5,4 +5,4 @@ Code used for EcoTaxa Analysis
 _Work in progress_
 
 ## Other code example
-Yulia Master thesis (_Title_, University of Auckland, 2024) is found in `Minimal example`.
+Yulia Ga-Eun Lee Master thesis (_Mapping plankton variability across the Tasman Front: Insights from PlanktoScope Imaging_, University of Auckland, 2024) is found in `Other works`.
